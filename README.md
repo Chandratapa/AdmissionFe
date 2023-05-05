@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Assumptions
+The back-end is running at 8080 port and the front-end at 3000.
 
 ## To install the packages
 ### `npm install` or `npm install --legacy-peer-deps`
@@ -34,6 +36,4 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-### Assumptions
 
-The backend server is running at port 8080
